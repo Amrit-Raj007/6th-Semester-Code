@@ -1,0 +1,7 @@
+In programming,
+we may require some specific input data to be generated several numbers of times.
+Sometimes,it is not enough to only display the data on the console.
+The data to be displayed may be very large, and only a limited amount of data can be displayed on the console,
+and since the memory is volatile, it ism impossible to recover the programmatically generated data again and again.
+However, if we need to do so, we may store it onto the local file system which is volatile and can be accessed every time.
+Here, comes the need of file handling in C.

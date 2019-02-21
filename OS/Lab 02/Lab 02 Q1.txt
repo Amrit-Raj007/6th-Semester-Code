@@ -1,0 +1,1 @@
+Q1:- Write a C code to implement FCFS and SJF.
