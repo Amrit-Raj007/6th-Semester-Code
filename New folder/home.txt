@@ -1,3 +1,0 @@
-Testing git
-
-git diff --staged testing 1
